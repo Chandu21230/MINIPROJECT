@@ -69,7 +69,7 @@ nav ul li a:hover{
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(images/coverpage.jpg);
+    background-image: url(coverpage.jpg);
 
 }
 .content{
